@@ -57,8 +57,8 @@
 
 <!-- GITHUB STATUS -->
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=x0n4d0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0n4d0&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricioromagnollo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioromagnollo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <!-- CONTACT -->
