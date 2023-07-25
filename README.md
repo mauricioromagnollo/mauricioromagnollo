@@ -18,7 +18,7 @@
 
 <div align="justify">
 
-- 🔭 I'm currently working with [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/), [Apache Kafka](https://kafka.apache.org/), [AWS](https://aws.amazon.com/), [Kubernetes](https://kubernetes.io/)...
+- 🔭 I'm currently working with [Node.js](https://nodejs.org/en/), [TypeScript](https://www.typescriptlang.org/), [Apache Kafka](https://kafka.apache.org/), [AWS](https://aws.amazon.com/), [Kubernetes](https://kubernetes.io/), [Elasticsearch](https://www.elastic.co/guide/index.html)...
 - 🌱 I'm currently learning [React Native](https://reactnative.dev/) and [Next.js](https://nextjs.org/)
 - I ❤️ Linux (🐧), Dev Community (🚀), Open Source (:octocat:), Coffee (:coffee:), Skateboard (🛹), Instruments (🎸), Cook (🧑‍🍳), Play Chess (♟️)...
 
@@ -65,19 +65,19 @@
 
 ### **Contact**
 
-<a href="https://www.linkedin.com/in/mauricioromagnoli/" target="_blank">
+<a href="https://www.linkedin.com/in/mauricioromagnollo/" target="_blank">
 <img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
 </a>
 
-<a href="https://www.instagram.com/mauricio.romagnoli/" target="_blank">
+<a href="https://www.instagram.com/mauricioromagnollo/" target="_blank">
 <img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
 </a>
 
-<a href="https://twitter.com/x0n4d0" target="_blank">
+<a href="https://twitter.com/mauromagnollo" target="_blank">
 <img width=45 src="https://user-images.githubusercontent.com/38081852/87236209-82908a00-c3bc-11ea-915f-f414bd1cf0a5.png">
 </a>
 
-<a href="mailto:mauricioromagnolis@gmail.com" target="_blank">
+<a href="mailto:mauricioromagnollo@gmail.com" target="_blank">
 <img width=45 height=45 src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png">
 </a>
 
