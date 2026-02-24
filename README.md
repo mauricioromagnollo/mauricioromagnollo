@@ -20,7 +20,7 @@
 <a href="mailto:mauricioromagnollo@gmail.com" target="_blank">
   <img
     width=45
-    height=48
+    height=52
     src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png"
   >
 </a>
